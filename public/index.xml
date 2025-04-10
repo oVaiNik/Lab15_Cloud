@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 18:02:55 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Клиника</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Thu, 10 Apr 2025 18:02:55 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Клиника&lt;/strong&gt; - американский комедийно-драматический телевизионный сериал, посвящённый работе и жизни молодых врачей. Сериал был создан Биллом Лоуренсом. Несмотря на принадлежность сериала к жанру комедии, наряду со смешными в нём присутствуют и серьёзные, драматические моменты и сцены.&lt;/p&gt;&#xA;&lt;p&gt;Премьера сериала состоялась 2 октября 2001 года на канале NBC. Восьмой и девятый сезоны транслировались телеканалом ABC.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Война и мир</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Thu, 10 Apr 2025 18:02:36 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Война и мир&lt;/strong&gt; -  роман-эпопея Льва Николаевича Толстого, описывающий русское общество в эпоху войн против Наполеона в 1805—1812 годах. Эпилог романа доводит повествование до 1820 года.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Птичий короб</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Apr 2025 18:02:24 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Птичий короб&lt;/strong&gt; -  постапокалиптический фильм ужасов режиссера Сюзанны Бир, вышедший на экраны в 2018 году. Сценарий написан Эриком Хайссерером на основе одноименной книги Джоша Малермана, изданной в 2014 году.&#xA;Мировая премьера фильма состоялась 12 ноября 2018 года на фестивале Американского института киноискусства, в США картина вышла в ограниченный прокат 14 декабря. С 21 декабря 2018 года фильм стал доступен на платформе Netflix. 14 июля 2023 года на экраны вышел сиквел — картина «Птичий короб 2: Барселона».&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
